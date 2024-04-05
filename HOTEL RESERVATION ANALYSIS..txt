@@ -1,0 +1,48 @@
+HOTEL RESERVATION ANALYSIS.
+
+ABOUT
+
+This Hotel Reservation Analysis project is about the reservation entries at an hotel by gender ,nationalities, payment methods used by different guests, guest preferrences when reserving rooms for stays etc.
+The data will be used by Hotel Administration/Management to gain different insights to make sure they handle the guests better and also for comparison of YTD metrics and PYTD. 
+
+PROBLEM STATEMENT.
+*Data Cleaning already done is Excel
+
+KPI's Requirement
+
+1.Revenue
+--YTD Revenue
+--PYTF Revenue
+--YoY change in Revenue
+
+2.Count of Rooms
+
+3.Bookings
+--YTD Bookings
+--PYTD Bookings
+--YoY Bookings
+
+4.Guests
+--YTD Guests
+--PYTD Guests
+--YoY Guests
+
+5.Nationalities
+
+CHART's Requirements
+
+1.Reservation source
+
+2.Reservation by payment methods
+
+3.Bookings by Months, Season
+
+4.Reservation by Gender
+
+5.Reservation by Nationalities.
+
+INSIGHTS & RECOMMENDATIONS.
+
+
+
+
